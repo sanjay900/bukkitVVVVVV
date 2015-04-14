@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Documents/Minecraft/spigotupdate/spigot.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Code/Java Plugins/libraries/BKCommonLib-1.59-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Code/Java Plugins/libraries/citizens-2.0.13-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Code/Java Plugins/libraries/ProtocolLib-Spigot-3.6.0-SNAPSHOT.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ShatteredPlugin"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,9 @@
+name: vvvvvvPlugin
+main: com.sanjay900.vvvvvv.Vvvvvv
+version: 0.1
+depend: [ShatteredPlugin, ProtocolLib]
+commands:
+   vvvvvv:
+      description: Wonderland commands
+      aliases: [vvv]
+      usage: /vvvvvv
